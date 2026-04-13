@@ -4,7 +4,7 @@
 
 ---
 
-![主界面：今日推荐《登鹳雀楼》](screenshot-main-dialogue.png)
+![主界面：今日推荐《鹿柴》](https://raw.githubusercontent.com/sapsapshen/daily-peom-card/main/docs/screenshot-main-dialogue.png)
 
 **你有没有发现，我们已经不会“安静”了？**
 
@@ -30,7 +30,7 @@
 - **动态背景，静态文字**：背景是流动的晨光或夜色，诗句却稳稳地停在画面中央——动的是气氛，静的是心。
 - **多风格视觉轮换**：今天可能是 Apple 式的极简陈列，明天变成 Notion 的纸面质感，后天切到 Raycast 的深色控制台。同一首诗，穿出三套高定。
 
-![英文界面切换](screenshot-english-ui.png)
+![英文界面切换](https://raw.githubusercontent.com/sapsapshen/daily-peom-card/main/docs/screenshot-english-ui.png)
 
 ---
 
@@ -78,7 +78,7 @@
 
 你可以选两位诗人，给一个主题，比如"人生得意须尽欢？"，然后点击"生成交锋"。
 
-![诗坛交锋：李白 vs 王之涣](screenshot-poetic-debate.png)
+![诗坛交锋：李白 vs 王之涣](https://raw.githubusercontent.com/sapsapshen/daily-peom-card/main/docs/screenshot-poetic-debate.png)
 
 接下来，你会看到：
 
