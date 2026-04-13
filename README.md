@@ -46,7 +46,7 @@ Language / 语言: [中文](#中文说明) | [English](#english-guide)
 
 | 主界面与作者对话 | 诗坛交锋 | 英文界面 |
 |:---:|:---:|:---:|
-| <img alt="screenshot-main-dialogue" src="https://github.com/user-attachments/assets/68d9213d-2cc9-42d3-91fc-f8c49363f524" /> | <img alt="screenshot-poetic-debate" src="https://github.com/user-attachments/assets/fb55a27b-843c-4c95-acde-6350565993db" /> | <img alt="screenshot-english-ui" src="https://github.com/user-attachments/assets/ffe70a02-8542-4ab5-bf40-b5aafc0d3efd" /> |
+| <img alt="screenshot-main-dialogue" src="https://github.com/user-attachments/assets/68d9213d-2cc9-42d3-91fc-f8c49363f524" width="300" /> | <img alt="screenshot-poetic-debate" src="https://github.com/user-attachments/assets/fb55a27b-843c-4c95-acde-6350565993db" width="300" /> | <img alt="screenshot-english-ui" src="https://github.com/user-attachments/assets/ffe70a02-8542-4ab5-bf40-b5aafc0d3efd" width="300" /> |
 
 ### 技术栈
 
@@ -244,9 +244,10 @@ This is not merely a static quote card. It is a small desktop atelier where poet
 
 ### Screenshots
 
-| 主界面与作者对话 | 诗坛交锋 | 英文界面 |
+| home page | debate | English UI |
 |:---:|:---:|:---:|
-| <img alt="screenshot-main-dialogue" src="https://github.com/user-attachments/assets/68d9213d-2cc9-42d3-91fc-f8c49363f524" /> | <img alt="screenshot-poetic-debate" src="https://github.com/user-attachments/assets/fb55a27b-843c-4c95-acde-6350565993db" /> | <img alt="screenshot-english-ui" src="https://github.com/user-attachments/assets/ffe70a02-8542-4ab5-bf40-b5aafc0d3efd" /> |
+| <img alt="screenshot-main-dialogue" src="https://github.com/user-attachments/assets/68d9213d-2cc9-42d3-91fc-f8c49363f524" width="300" /> | <img alt="screenshot-poetic-debate" src="https://github.com/user-attachments/assets/fb55a27b-843c-4c95-acde-6350565993db" width="300" /> | <img alt="screenshot-english-ui" src="https://github.com/user-attachments/assets/ffe70a02-8542-4ab5-bf40-b5aafc0d3efd" width="300" /> |
+
 ### Tech Stack
 
 1. Desktop shell: Electron
