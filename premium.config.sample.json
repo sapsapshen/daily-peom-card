@@ -1,0 +1,6 @@
+{
+  "providerLabel": "Stripe Payment Link",
+  "purchaseUrl": "https://buy.stripe.com/test_example",
+  "licenseHash": "replace-with-sha256-of-your-license-key",
+  "supportMessage": "用户完成支付后，将你发放的许可证粘贴到桌面应用里即可解锁高级版。"
+}

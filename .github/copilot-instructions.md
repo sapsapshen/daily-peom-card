@@ -1,0 +1,7 @@
+- Stack: Electron + React + TypeScript + electron-vite.
+- Motion backgrounds come from D:\YunXue\agent-image-motion-skill via local CLI.
+- Image sourcing follows smart-image-finder logic: prefer Brave Image Search when BRAVE_API_KEY exists, otherwise fall back to Pollinations image generation.
+- Card visuals are intentionally varied and should continue to draw from DESIGN.md-inspired systems rather than one fixed brand style.
+- Poem typography must remain static and legible over animated backgrounds.
+- Runtime save targets live in the project root: daily_poem_archive.md and daily_save/.
+- Free mode exposes 1 featured poem plus up to 3 previews; premium mode exposes up to 10 poems.

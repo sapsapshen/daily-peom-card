@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sample-zh-poem",
+    "title": "山中与幽人对酌",
+    "author": "李白",
+    "authorMeta": "唐",
+    "originalLanguage": "zh",
+    "originalText": [
+      "两人对酌山花开，",
+      "一杯一杯复一杯。",
+      "我醉欲眠卿且去，",
+      "明朝有意抱琴来。"
+    ],
+    "translatedTitle": "Drinking in the Mountains with a Recluse",
+    "translatedText": [
+      "Mountain flowers bloom while the two of us drink,",
+      "One cup, then another, and another again.",
+      "I am drunk and wish to sleep, so go for now,",
+      "Come tomorrow with your qin if the mood returns."
+    ],
+    "translatorNote": "A casual, intimate scene that feels effortless and expansive at once.",
+    "imagePrompt": "mountain flowers blooming beside a low table with wine cups, intimate poetic gathering, early spring mountain air, elegant Chinese scene",
+    "searchKeywords": ["mountain flowers wine", "Chinese poet drinking", "spring mountain table"],
+    "motionPreset": "gallery"
+  },
+  {
+    "id": "sample-en-poem",
+    "title": "A Light exists in Spring",
+    "author": "Emily Dickinson",
+    "authorMeta": "United States",
+    "originalLanguage": "en",
+    "originalText": [
+      "A Light exists in Spring",
+      "Not present on the Year",
+      "At any other period —",
+      "When March is scarcely here"
+    ],
+    "translatedTitle": "春天里有一种光",
+    "translatedText": [
+      "春天里有一种光，",
+      "在一年里别的时候并不存在，",
+      "在任何别的时节，",
+      "当三月还只是刚刚来到。"
+    ],
+    "translatorNote": "Dickinson isolates a season into a quality of light that almost cannot be kept.",
+    "imagePrompt": "delicate early spring light over pale fields, quiet March air, luminous subtle atmosphere, editorial photography",
+    "searchKeywords": ["early spring light field", "March delicate light", "Emily Dickinson spring"],
+    "motionPreset": "editorial"
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+out/
+dist/
+.daily_runtime/
+daily_save/
+daily_poem_archive.md
+premium.config.json
+
+llm.config.json
+build/
+release/

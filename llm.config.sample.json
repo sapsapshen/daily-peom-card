@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://api.moonshot.cn/v1",
+  "apiKey": "your-api-key-here",
+  "model": "kimi-latest",
+  "temperature": 0.8,
+  "maxTokens": 512
+}

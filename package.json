@@ -1,0 +1,34 @@
+{
+  "name": "daily-poem-card",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A bilingual Electron poem card studio with motion backgrounds, author dialogue, and exportable daily cards.",
+  "author": "YunXue",
+  "type": "module",
+  "main": "out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "prepare:motion-runtime": "node scripts/prepare-motion-runtime.mjs",
+    "dist:win": "npm run prepare:motion-runtime && npm run build && electron-builder --win nsis --config electron-builder.config.mjs && node scripts/build-full-windows-installer.mjs && node scripts/bundle-windows-installer.mjs"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "iconv-lite": "^0.7.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "electron": "^31.7.7",
+    "electron-builder": "^26.8.1",
+    "electron-vite": "^2.3.0",
+    "rcedit": "^5.0.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
